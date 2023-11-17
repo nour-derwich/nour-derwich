@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Spring Boot Project**
+- 🔭 I’m currently working on **Odoo14 Project**
 
-- 🌱 I’m currently learning **Spring Boot,MERN,Flask**
+- 🌱 I’m currently learning **Spring Boot,MERN,django,odoo**
 
-- 👯 I’m looking to collaborate on **MERN project**
+- 👯 I’m looking to collaborate on **Odoo14 project**
 
 - 🤝 I’m looking for help with **JWT**
 
-- 💬 Ask me about **Spring Boot,MERN,Flask**
+- 💬 Ask me about **Spring Boot,MERN,django,odoo**
 
 - 📫 How to reach me **nourderouich159@gmail.com**
 
